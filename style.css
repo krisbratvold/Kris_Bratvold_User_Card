@@ -1,0 +1,33 @@
+.container{
+    border:1px solid gray;
+    height: 300px;
+    width: 600px;
+}
+.top{
+    background-color: cadetblue;
+    height: 75px;
+    width: 600px;
+}
+p{
+    line-height: 2px;
+    font-weight: bold;
+}
+.map{
+    display: flex;
+    align-items:center;
+}
+.main{
+    padding:30px;
+    margin-top: 20px;
+}
+h1{
+    margin: 0;
+}
+.place{
+    margin-left: 10px;
+}
+.user{
+    position: fixed;
+    top:30px;
+    left:45px;
+}
